@@ -1,0 +1,1 @@
+<div class="bg-danger p-5 text-white w-100">copyrights @2023</div>
